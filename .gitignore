@@ -12,3 +12,17 @@ web/lib/import-map.json
 *.session
 /*.json
 *.bak
+build/lib/sticker/__init__.py
+build/lib/sticker/download_thumbnails.py
+build/lib/sticker/get_version.py
+build/lib/sticker/pack.py
+build/lib/sticker/scalar_convert.py
+build/lib/sticker/stickerimport.py
+build/lib/sticker/version.py
+build/lib/sticker/lib/__init__.py
+build/lib/sticker/lib/matrix.py
+build/lib/sticker/lib/util.py
+sticker/version.py
+sticker/version.py
+huppal/sadcat.png
+huppal/Memes.gif
